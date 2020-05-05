@@ -1,0 +1,60 @@
+C:\Users\NDUBUISI OKPALA-PC\Desktop\.NET Web Applications\projects\CCSOFTWARESOLUTIONS.Assets\CCSOFTWARESOLUTIONS.Assets.Data\bin\Debug\netcoreapp3.1\CCSOFTWARESOLUTIONS.Assets.Data.deps.json
+C:\Users\NDUBUISI OKPALA-PC\Desktop\.NET Web Applications\projects\CCSOFTWARESOLUTIONS.Assets\CCSOFTWARESOLUTIONS.Assets.Data\bin\Debug\netcoreapp3.1\CCSOFTWARESOLUTIONS.Assets.Data.dll
+C:\Users\NDUBUISI OKPALA-PC\Desktop\.NET Web Applications\projects\CCSOFTWARESOLUTIONS.Assets\CCSOFTWARESOLUTIONS.Assets.Data\obj\Debug\netcoreapp3.1\CCSOFTWARESOLUTIONS.Assets.Data.AssemblyInfoInputs.cache
+C:\Users\NDUBUISI OKPALA-PC\Desktop\.NET Web Applications\projects\CCSOFTWARESOLUTIONS.Assets\CCSOFTWARESOLUTIONS.Assets.Data\obj\Debug\netcoreapp3.1\CCSOFTWARESOLUTIONS.Assets.Data.AssemblyInfo.cs
+C:\Users\NDUBUISI OKPALA-PC\Desktop\.NET Web Applications\projects\CCSOFTWARESOLUTIONS.Assets\CCSOFTWARESOLUTIONS.Assets.Data\obj\Debug\netcoreapp3.1\CCSOFTWARESOLUTIONS.Assets.Data.csprojAssemblyReference.cache
+C:\Users\NDUBUISI OKPALA-PC\Desktop\.NET Web Applications\projects\CCSOFTWARESOLUTIONS.Assets\CCSOFTWARESOLUTIONS.Assets.Data\bin\Debug\netcoreapp3.1\CCSOFTWARESOLUTIONS.Assets.Data.runtimeconfig.json
+C:\Users\NDUBUISI OKPALA-PC\Desktop\.NET Web Applications\projects\CCSOFTWARESOLUTIONS.Assets\CCSOFTWARESOLUTIONS.Assets.Data\bin\Debug\netcoreapp3.1\CCSOFTWARESOLUTIONS.Assets.Data.runtimeconfig.dev.json
+C:\Users\NDUBUISI OKPALA-PC\Desktop\.NET Web Applications\projects\CCSOFTWARESOLUTIONS.Assets\CCSOFTWARESOLUTIONS.Assets.Data\bin\Debug\netcoreapp3.1\CCSOFTWARESOLUTIONS.Assets.Data.pdb
+C:\Users\NDUBUISI OKPALA-PC\Desktop\.NET Web Applications\projects\CCSOFTWARESOLUTIONS.Assets\CCSOFTWARESOLUTIONS.Assets.Data\bin\Debug\netcoreapp3.1\CCSOFTWARESOLUTIONS.Assets.Domain.dll
+C:\Users\NDUBUISI OKPALA-PC\Desktop\.NET Web Applications\projects\CCSOFTWARESOLUTIONS.Assets\CCSOFTWARESOLUTIONS.Assets.Data\bin\Debug\netcoreapp3.1\CCSOFTWARESOLUTIONS.Assets.Domain.pdb
+C:\Users\NDUBUISI OKPALA-PC\Desktop\.NET Web Applications\projects\CCSOFTWARESOLUTIONS.Assets\CCSOFTWARESOLUTIONS.Assets.Data\obj\Debug\netcoreapp3.1\CCSOFTWARESOLUTIONS.Assets.Data.csproj.CoreCompileInputs.cache
+C:\Users\NDUBUISI OKPALA-PC\Desktop\.NET Web Applications\projects\CCSOFTWARESOLUTIONS.Assets\CCSOFTWARESOLUTIONS.Assets.Data\obj\Debug\netcoreapp3.1\CCSOFTWARESOLUTIONS.Assets.Data.csproj.CopyComplete
+C:\Users\NDUBUISI OKPALA-PC\Desktop\.NET Web Applications\projects\CCSOFTWARESOLUTIONS.Assets\CCSOFTWARESOLUTIONS.Assets.Data\obj\Debug\netcoreapp3.1\CCSOFTWARESOLUTIONS.Assets.Data.dll
+C:\Users\NDUBUISI OKPALA-PC\Desktop\.NET Web Applications\projects\CCSOFTWARESOLUTIONS.Assets\CCSOFTWARESOLUTIONS.Assets.Data\obj\Debug\netcoreapp3.1\CCSOFTWARESOLUTIONS.Assets.Data.pdb
+C:\Users\NDUBUISI OKPALA-PC\Desktop\.NET Web Applications\projects\CCSOFTWARESOLUTIONS.Assets\CCSOFTWARESOLUTIONS.Assets.Data\obj\Debug\netcoreapp3.1\CCSOFTWARESOLUTIONS.Assets.Data.genruntimeconfig.cache
+C:\Users\NDUBUISI OKPALA-PC\Desktop\CCSOFTWARESOLUTIONS.Assets\CCSOFTWARESOLUTIONS.Assets.Data\bin\Debug\netcoreapp3.1\CCSOFTWARESOLUTIONS.Assets.Data.deps.json
+C:\Users\NDUBUISI OKPALA-PC\Desktop\CCSOFTWARESOLUTIONS.Assets\CCSOFTWARESOLUTIONS.Assets.Data\bin\Debug\netcoreapp3.1\CCSOFTWARESOLUTIONS.Assets.Data.runtimeconfig.json
+C:\Users\NDUBUISI OKPALA-PC\Desktop\CCSOFTWARESOLUTIONS.Assets\CCSOFTWARESOLUTIONS.Assets.Data\bin\Debug\netcoreapp3.1\CCSOFTWARESOLUTIONS.Assets.Data.runtimeconfig.dev.json
+C:\Users\NDUBUISI OKPALA-PC\Desktop\CCSOFTWARESOLUTIONS.Assets\CCSOFTWARESOLUTIONS.Assets.Data\bin\Debug\netcoreapp3.1\CCSOFTWARESOLUTIONS.Assets.Data.dll
+C:\Users\NDUBUISI OKPALA-PC\Desktop\CCSOFTWARESOLUTIONS.Assets\CCSOFTWARESOLUTIONS.Assets.Data\bin\Debug\netcoreapp3.1\CCSOFTWARESOLUTIONS.Assets.Data.pdb
+C:\Users\NDUBUISI OKPALA-PC\Desktop\CCSOFTWARESOLUTIONS.Assets\CCSOFTWARESOLUTIONS.Assets.Data\bin\Debug\netcoreapp3.1\CCSOFTWARESOLUTIONS.Assets.Domain.dll
+C:\Users\NDUBUISI OKPALA-PC\Desktop\CCSOFTWARESOLUTIONS.Assets\CCSOFTWARESOLUTIONS.Assets.Data\bin\Debug\netcoreapp3.1\CCSOFTWARESOLUTIONS.Assets.Domain.pdb
+C:\Users\NDUBUISI OKPALA-PC\Desktop\CCSOFTWARESOLUTIONS.Assets\CCSOFTWARESOLUTIONS.Assets.Data\obj\Debug\netcoreapp3.1\CCSOFTWARESOLUTIONS.Assets.Data.csprojAssemblyReference.cache
+C:\Users\NDUBUISI OKPALA-PC\Desktop\CCSOFTWARESOLUTIONS.Assets\CCSOFTWARESOLUTIONS.Assets.Data\obj\Debug\netcoreapp3.1\CCSOFTWARESOLUTIONS.Assets.Data.csproj.CoreCompileInputs.cache
+C:\Users\NDUBUISI OKPALA-PC\Desktop\CCSOFTWARESOLUTIONS.Assets\CCSOFTWARESOLUTIONS.Assets.Data\obj\Debug\netcoreapp3.1\CCSOFTWARESOLUTIONS.Assets.Data.AssemblyInfoInputs.cache
+C:\Users\NDUBUISI OKPALA-PC\Desktop\CCSOFTWARESOLUTIONS.Assets\CCSOFTWARESOLUTIONS.Assets.Data\obj\Debug\netcoreapp3.1\CCSOFTWARESOLUTIONS.Assets.Data.AssemblyInfo.cs
+C:\Users\NDUBUISI OKPALA-PC\Desktop\CCSOFTWARESOLUTIONS.Assets\CCSOFTWARESOLUTIONS.Assets.Data\obj\Debug\netcoreapp3.1\CCSOFTWARESOLUTIONS.Assets.Data.csproj.CopyComplete
+C:\Users\NDUBUISI OKPALA-PC\Desktop\CCSOFTWARESOLUTIONS.Assets\CCSOFTWARESOLUTIONS.Assets.Data\obj\Debug\netcoreapp3.1\CCSOFTWARESOLUTIONS.Assets.Data.dll
+C:\Users\NDUBUISI OKPALA-PC\Desktop\CCSOFTWARESOLUTIONS.Assets\CCSOFTWARESOLUTIONS.Assets.Data\obj\Debug\netcoreapp3.1\CCSOFTWARESOLUTIONS.Assets.Data.pdb
+C:\Users\NDUBUISI OKPALA-PC\Desktop\CCSOFTWARESOLUTIONS.Assets\CCSOFTWARESOLUTIONS.Assets.Data\obj\Debug\netcoreapp3.1\CCSOFTWARESOLUTIONS.Assets.Data.genruntimeconfig.cache
+C:\Users\Marlon\Desktop\delete\chris\CCSOFTWARESOLUTIONS.Assets\CCSOFTWARESOLUTIONS.Assets.Data\bin\Debug\netcoreapp3.1\CCSOFTWARESOLUTIONS.Assets.Data.deps.json
+C:\Users\Marlon\Desktop\delete\chris\CCSOFTWARESOLUTIONS.Assets\CCSOFTWARESOLUTIONS.Assets.Data\bin\Debug\netcoreapp3.1\CCSOFTWARESOLUTIONS.Assets.Data.runtimeconfig.json
+C:\Users\Marlon\Desktop\delete\chris\CCSOFTWARESOLUTIONS.Assets\CCSOFTWARESOLUTIONS.Assets.Data\bin\Debug\netcoreapp3.1\CCSOFTWARESOLUTIONS.Assets.Data.runtimeconfig.dev.json
+C:\Users\Marlon\Desktop\delete\chris\CCSOFTWARESOLUTIONS.Assets\CCSOFTWARESOLUTIONS.Assets.Data\bin\Debug\netcoreapp3.1\CCSOFTWARESOLUTIONS.Assets.Data.dll
+C:\Users\Marlon\Desktop\delete\chris\CCSOFTWARESOLUTIONS.Assets\CCSOFTWARESOLUTIONS.Assets.Data\bin\Debug\netcoreapp3.1\CCSOFTWARESOLUTIONS.Assets.Data.pdb
+C:\Users\Marlon\Desktop\delete\chris\CCSOFTWARESOLUTIONS.Assets\CCSOFTWARESOLUTIONS.Assets.Data\bin\Debug\netcoreapp3.1\CCSOFTWARESOLUTIONS.Assets.Domain.dll
+C:\Users\Marlon\Desktop\delete\chris\CCSOFTWARESOLUTIONS.Assets\CCSOFTWARESOLUTIONS.Assets.Data\bin\Debug\netcoreapp3.1\CCSOFTWARESOLUTIONS.Assets.Domain.pdb
+C:\Users\Marlon\Desktop\delete\chris\CCSOFTWARESOLUTIONS.Assets\CCSOFTWARESOLUTIONS.Assets.Data\obj\Debug\netcoreapp3.1\CCSOFTWARESOLUTIONS.Assets.Data.csprojAssemblyReference.cache
+C:\Users\Marlon\Desktop\delete\chris\CCSOFTWARESOLUTIONS.Assets\CCSOFTWARESOLUTIONS.Assets.Data\obj\Debug\netcoreapp3.1\CCSOFTWARESOLUTIONS.Assets.Data.csproj.CoreCompileInputs.cache
+C:\Users\Marlon\Desktop\delete\chris\CCSOFTWARESOLUTIONS.Assets\CCSOFTWARESOLUTIONS.Assets.Data\obj\Debug\netcoreapp3.1\CCSOFTWARESOLUTIONS.Assets.Data.AssemblyInfoInputs.cache
+C:\Users\Marlon\Desktop\delete\chris\CCSOFTWARESOLUTIONS.Assets\CCSOFTWARESOLUTIONS.Assets.Data\obj\Debug\netcoreapp3.1\CCSOFTWARESOLUTIONS.Assets.Data.AssemblyInfo.cs
+C:\Users\Marlon\Desktop\delete\chris\CCSOFTWARESOLUTIONS.Assets\CCSOFTWARESOLUTIONS.Assets.Data\obj\Debug\netcoreapp3.1\CCSOFTWARESOLUTIONS.Assets.Data.csproj.CopyComplete
+C:\Users\Marlon\Desktop\delete\chris\CCSOFTWARESOLUTIONS.Assets\CCSOFTWARESOLUTIONS.Assets.Data\obj\Debug\netcoreapp3.1\CCSOFTWARESOLUTIONS.Assets.Data.dll
+C:\Users\Marlon\Desktop\delete\chris\CCSOFTWARESOLUTIONS.Assets\CCSOFTWARESOLUTIONS.Assets.Data\obj\Debug\netcoreapp3.1\CCSOFTWARESOLUTIONS.Assets.Data.pdb
+C:\Users\Marlon\Desktop\delete\chris\CCSOFTWARESOLUTIONS.Assets\CCSOFTWARESOLUTIONS.Assets.Data\obj\Debug\netcoreapp3.1\CCSOFTWARESOLUTIONS.Assets.Data.genruntimeconfig.cache
+C:\Users\NDUBUISI OKPALA-PC\Desktop\.NET Web Applications\project 2\CCSOFTWARESOLUTIONS.Assets\CCSOFTWARESOLUTIONS.Assets.Data\bin\Debug\netcoreapp3.1\CCSOFTWARESOLUTIONS.Assets.Data.deps.json
+C:\Users\NDUBUISI OKPALA-PC\Desktop\.NET Web Applications\project 2\CCSOFTWARESOLUTIONS.Assets\CCSOFTWARESOLUTIONS.Assets.Data\bin\Debug\netcoreapp3.1\CCSOFTWARESOLUTIONS.Assets.Data.runtimeconfig.json
+C:\Users\NDUBUISI OKPALA-PC\Desktop\.NET Web Applications\project 2\CCSOFTWARESOLUTIONS.Assets\CCSOFTWARESOLUTIONS.Assets.Data\bin\Debug\netcoreapp3.1\CCSOFTWARESOLUTIONS.Assets.Data.runtimeconfig.dev.json
+C:\Users\NDUBUISI OKPALA-PC\Desktop\.NET Web Applications\project 2\CCSOFTWARESOLUTIONS.Assets\CCSOFTWARESOLUTIONS.Assets.Data\bin\Debug\netcoreapp3.1\CCSOFTWARESOLUTIONS.Assets.Data.dll
+C:\Users\NDUBUISI OKPALA-PC\Desktop\.NET Web Applications\project 2\CCSOFTWARESOLUTIONS.Assets\CCSOFTWARESOLUTIONS.Assets.Data\bin\Debug\netcoreapp3.1\CCSOFTWARESOLUTIONS.Assets.Data.pdb
+C:\Users\NDUBUISI OKPALA-PC\Desktop\.NET Web Applications\project 2\CCSOFTWARESOLUTIONS.Assets\CCSOFTWARESOLUTIONS.Assets.Data\bin\Debug\netcoreapp3.1\CCSOFTWARESOLUTIONS.Assets.Domain.dll
+C:\Users\NDUBUISI OKPALA-PC\Desktop\.NET Web Applications\project 2\CCSOFTWARESOLUTIONS.Assets\CCSOFTWARESOLUTIONS.Assets.Data\bin\Debug\netcoreapp3.1\CCSOFTWARESOLUTIONS.Assets.Domain.pdb
+C:\Users\NDUBUISI OKPALA-PC\Desktop\.NET Web Applications\project 2\CCSOFTWARESOLUTIONS.Assets\CCSOFTWARESOLUTIONS.Assets.Data\obj\Debug\netcoreapp3.1\CCSOFTWARESOLUTIONS.Assets.Data.csprojAssemblyReference.cache
+C:\Users\NDUBUISI OKPALA-PC\Desktop\.NET Web Applications\project 2\CCSOFTWARESOLUTIONS.Assets\CCSOFTWARESOLUTIONS.Assets.Data\obj\Debug\netcoreapp3.1\CCSOFTWARESOLUTIONS.Assets.Data.csproj.CoreCompileInputs.cache
+C:\Users\NDUBUISI OKPALA-PC\Desktop\.NET Web Applications\project 2\CCSOFTWARESOLUTIONS.Assets\CCSOFTWARESOLUTIONS.Assets.Data\obj\Debug\netcoreapp3.1\CCSOFTWARESOLUTIONS.Assets.Data.AssemblyInfoInputs.cache
+C:\Users\NDUBUISI OKPALA-PC\Desktop\.NET Web Applications\project 2\CCSOFTWARESOLUTIONS.Assets\CCSOFTWARESOLUTIONS.Assets.Data\obj\Debug\netcoreapp3.1\CCSOFTWARESOLUTIONS.Assets.Data.AssemblyInfo.cs
+C:\Users\NDUBUISI OKPALA-PC\Desktop\.NET Web Applications\project 2\CCSOFTWARESOLUTIONS.Assets\CCSOFTWARESOLUTIONS.Assets.Data\obj\Debug\netcoreapp3.1\CCSOFTWARESOLUTIONS.Assets.Data.csproj.CopyComplete
+C:\Users\NDUBUISI OKPALA-PC\Desktop\.NET Web Applications\project 2\CCSOFTWARESOLUTIONS.Assets\CCSOFTWARESOLUTIONS.Assets.Data\obj\Debug\netcoreapp3.1\CCSOFTWARESOLUTIONS.Assets.Data.dll
+C:\Users\NDUBUISI OKPALA-PC\Desktop\.NET Web Applications\project 2\CCSOFTWARESOLUTIONS.Assets\CCSOFTWARESOLUTIONS.Assets.Data\obj\Debug\netcoreapp3.1\CCSOFTWARESOLUTIONS.Assets.Data.pdb
+C:\Users\NDUBUISI OKPALA-PC\Desktop\.NET Web Applications\project 2\CCSOFTWARESOLUTIONS.Assets\CCSOFTWARESOLUTIONS.Assets.Data\obj\Debug\netcoreapp3.1\CCSOFTWARESOLUTIONS.Assets.Data.genruntimeconfig.cache

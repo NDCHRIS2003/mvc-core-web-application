@@ -1,0 +1,37 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Filter by assete type</h1>
+<select id="assetTypesDropDown" asp-items="@ViewBag.AssetTypes"></select>
+<button id="actionButton" class="btn btn-primary">Show Assets</button>
+<div id="uxDisplay">
+    @await Component.InvokeAsync("AssetsByType", 0)
+</div>
+
+@*script to do action after selection of drop down menu item*@
+@*call the method in the controler to call the view component*@
+@section Scripts{
+
+    <script>
+        $(document).ready(function () {
+
+            //$("#assetTypesDropDown").change(function () {
+            $("#actionButton").click(function () {
+                var assetTypeID = $("#assetTypesDropDown").val(); // returns the value from the selected drop down. Value is ID in the key-value pair
+
+                $.ajax({ // ajax call
+                    method: 'GET', // http GET to the server
+                    url: '/Home/GetAssetByType', // call the action method in the Home controller to call the view component (see graph)
+                    data: { id: assetTypeID } // the argument used for the method call
+                }).done(function (result, statusText, xhdr) {
+                    $("#uxDisplay").html(result);
+                });
+            });
+        });
+    </script>
+}
+
+
+
